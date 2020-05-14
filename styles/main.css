@@ -132,12 +132,6 @@
             font-size: 25px;
             font-variant: small-caps;
         }
-
-        .sub_title {
-            font-size: 13px;
-            margin-left: 5px;
-        }
-
         .title::first-letter {
             color: #fffb00;
             font-size: 200%;
