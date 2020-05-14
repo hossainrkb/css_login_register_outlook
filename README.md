@@ -13,11 +13,11 @@
     * password
     * textarea
   ```
-    <div class="user_email">
+    <div>
         <input type="email" class="" placeholder="Email Address">
     </div>
   ```
-  ** Super SImple **
+  __Super SImple__
 
 >Login Page
 ![Demo Login](/img/demo.png)
