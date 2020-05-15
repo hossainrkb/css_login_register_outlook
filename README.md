@@ -1,6 +1,6 @@
 # Simple login-register form by using CSS  
 - anyone can use it by just defining HTML form tags
-- It is responsive, i have used css position, media-query ,pseudo-elements etc. you can use css flexbox,grid to make it more easier.
+- It is responsive, i have used css float,position, media-query ,pseudo-elements etc. you can use css flexbox,grid to make it more flexible.
 
 # Usage
 * link up external css at first
